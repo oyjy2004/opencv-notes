@@ -1,0 +1,28 @@
+###参考笔记: https://spite-triangle.github.io/artificial_intelligence/###
+
+class1		图像的读取与显示
+class2		视频的读取与显示
+
+class3		图像的通道分解合并、缩放、融合、边界填充、阈值处理
+
+class4		图像的滤波(均值， 高斯， 中值)
+
+class5		图像的腐蚀与膨胀
+class6      开运算与闭运算,梯度的计算,高帽与黑帽
+
+class7      Gauss金字塔、Laplacian金字塔
+
+class8      图像的梯度计算(针对灰度图)(sobel算子)
+class9      图像的梯度计算(scharr算子和laplacian算子)
+
+class10     Canny边缘检测(针对灰度图)
+
+class11     轮廓检测、轮廓操作、轮廓近似(针对二值图)
+
+class12     模式匹配
+
+class13     掩码
+class14     直方图
+class15     图像均衡化
+
+class16     傅里叶变化, 傅里叶逆变化, 高通低通滤波
